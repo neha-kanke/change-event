@@ -1,0 +1,33 @@
+
+
+.all>div{
+   height: 200px; 
+   width:200px;
+   background-color: yellow;
+   border: 2px solid red;
+}
+.red>div{
+    background-color: red;
+    border-radius: 50%;
+}
+.blue>div{
+    background-color: blue;
+    border-radius: 50%;
+}
+.green>div{
+    background-color: green;
+    border-radius: 50%
+}
+.black>div{
+    background-color: black;
+    border-radius: 50%;
+}
+.yellow>div{
+    background-color: yellow;
+}
+img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
